@@ -6,10 +6,12 @@
 <img
     align="right"
     alt="My gif"
-    height="130"
+    height="150"
     src="https://i.postimg.cc/xjtDqnbj/ezgif-com-speed.gif"
 />
+
 ### Linguagens e Tecnologias 👩🏻‍💻
+
 <img
     align="left"
     alt="Python"
