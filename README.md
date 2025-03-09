@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66A88C&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Amanda+Salvino;Sou+estudante+de+Sistemas+de+Informação;Seja+BEM-VINDO!)](https://git.io/typing-svg)
 
-
 **`Entusiasta em Análise de Dados | Aprendizado de Máquina | Inteligência Artificial`**
 
 ---
@@ -8,7 +7,7 @@
     align="right"
     alt="My gif"
     height="130"
-    src="https://cdn.discordapp.com/attachments/1331375502149156986/1345977954395488257/ezgif.com-speed.gif?ex=67c68327&is=67c531a7&hm=e25a9fda4a17e2e8265d8bf3d65c3cdb1abd89ab3ff0cf3c559ff0a4b2644214&"
+    src="https://i.postimg.cc/xjtDqnbj/ezgif-com-speed.gif"
 />
 ### Linguagens e Tecnologias 👩🏻‍💻
 <img
