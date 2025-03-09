@@ -6,7 +6,7 @@
 <img
     align="right"
     alt="My gif"
-    height="140"
+    height="130"
     src="https://i.postimg.cc/xjtDqnbj/ezgif-com-speed.gif"
 />
 
