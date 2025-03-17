@@ -62,12 +62,12 @@
     alt="GitHub Stats"
     heigth="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=salvinoamanda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=salvinoamanda&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
 />
 <img
     align="left"
     alt="GitHub Stats"
     heigth="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvinoamanda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvinoamanda&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=3"
 />
